@@ -1,0 +1,156 @@
+[
+    {
+      "_children": [],
+      "name": "accessToECommerceModule",
+      "level": 1,
+      "title": "eCommerce module",
+      "id": "5f6143399fdf78bcf4f40415",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6143399fdf78bcf4f40415"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "accessToAuthModule",
+      "level": 1,
+      "title": "Users Management module",
+      "id": "5f6143569fdf78bcf4f40416",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6143569fdf78bcf4f40416"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "accessToMailModule",
+      "level": 1,
+      "title": "Mail module",
+      "id": "5f6143869fdf78bcf4f40417",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6143869fdf78bcf4f40417"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canReadECommerceData",
+      "level": 2,
+      "parentId": "5f6143399fdf78bcf4f40415",
+      "title": "Read",
+      "id": "5f61452b9fdf78bcf4f4041b",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f61452b9fdf78bcf4f4041b"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canEditECommerceData",
+      "level": 2,
+      "parentId": "5eaaf25d27a77b21eef6bf53",
+      "title": "Edit",
+      "id": "5eaaf2dd27a77b21eef6bf57",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5eaaf2dd27a77b21eef6bf57"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canDeleteECommerceData",
+      "level": 2,
+      "parentId": "5f6143399fdf78bcf4f40415",
+      "title": "Delete",
+      "id": "5f61458a9fdf78bcf4f4041c",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f61458a9fdf78bcf4f4041c"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canReadAuthData",
+      "level": 2,
+      "parentId": "5f6143569fdf78bcf4f40416",
+      "title": "Read",
+      "id": "5f6145d19fdf78bcf4f4041d",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6145d19fdf78bcf4f4041d"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canEditAuthData",
+      "level": 2,
+      "parentId": "5f6143569fdf78bcf4f40416",
+      "title": "Edit",
+      "id": "5f6146249fdf78bcf4f4041e",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6146249fdf78bcf4f4041e"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canDeleteAuthData",
+      "level": 2,
+      "parentId": "5f6143569fdf78bcf4f40416",
+      "title": "Delete",
+      "id": "5f6146599fdf78bcf4f4041f",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6146599fdf78bcf4f4041f"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canReadMailData",
+      "level": 2,
+      "parentId": "5f6143869fdf78bcf4f40417",
+      "title": "Read",
+      "id": "5f6146999fdf78bcf4f40420",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6146999fdf78bcf4f40420"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canEditMailData",
+      "level": 2,
+      "parentId": "5f6143869fdf78bcf4f40417",
+      "title": "Edit",
+      "id": "5f6146c99fdf78bcf4f40421",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6146c99fdf78bcf4f40421"
+        }
+      }
+    },
+    {
+      "_children": [],
+      "name": "canDeleteMailData",
+      "level": 2,
+      "parentId": "5f6143869fdf78bcf4f40417",
+      "title": "Delete",
+      "id": "5f6143869fdf78bcf4f40417",
+      "_links": {
+        "self": {
+          "href": "/api/permissions/5f6143869fdf78bcf4f40417"
+        }
+      }
+    }
+  ]
+  
